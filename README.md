@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=naflapt&label=Profile%20views&color=0e75b6&style=flat" alt="naflapt" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
