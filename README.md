@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nafla PT</h1>
 <h3 align="center">Passionate about Technology Innovation & Creating Impactful Digital Solutions</h3>
 
-<p align="center">🎓 I'm a 2025 B.Sc. Computer Science graduate from India</p>
+<p align="center">🎓 I'm a 2025 B.Sc. Computer Science graduate</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=naflapt&label=Profile%20views&color=0e75b6&style=flat" alt="naflapt" />
